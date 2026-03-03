@@ -11,6 +11,10 @@ pagerSize = 20
 [markup.highlight]
 style = "github-dark"
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [params]
   author = "Iestyn Mullinor"
   info = "Software and Data Engineer"
